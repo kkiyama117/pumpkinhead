@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+################################################################################
+# Editor
+.idea/
+# Debuging temporary folders
+cmake-build-debug
